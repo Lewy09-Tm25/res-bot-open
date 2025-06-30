@@ -1,4 +1,5 @@
 streamlit
 python-docx
 openai
-tiktoken 
+tiktoken
+huggingface_hub
